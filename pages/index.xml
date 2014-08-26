@@ -1,6 +1,15 @@
 <page>
     <title>Hanley and Co</title>
     <content>
-        This is some content for the website.
+        <top>
+            This is some content for the website.
+        </top>
+        <middle>
+            This is more content.
+        </middle>
+        <bottom>
+            This is the last piece of content.
+        </bottom>
     </content>
 </page>
+        
