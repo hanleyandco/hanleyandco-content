@@ -1,4 +1,7 @@
 {
     "name": "xepps/hanleyandco-content",
-    "description": "Hanley and Co Chartered Accountants Website Content"
+    "description": "Hanley and Co Chartered Accountants Website Content",
+    "autoload": {
+        "psr-0": { "HacContent": "src/" }
+    }
 }
