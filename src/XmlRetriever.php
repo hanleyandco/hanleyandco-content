@@ -4,7 +4,7 @@ namespace HacContent;
 
 class XmlRetriever {
 
-    public function retrieve($filename) {
+    public static function retrieve($filename) {
         return simplexml_load_file('pages/'.$filename.'xml');
     }
 
