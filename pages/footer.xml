@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <footer>
-    <link>
-        <text>xepps.com</text>
-        <url>http://xepps.com</url>
-    </link>
-    <link>
-        <id>desktop</id>
-        <text>Desktop Version</text>
-    </link>
-    <copyright>Hanley &amp; Co Ltd - All Rights Reserved.</copyright>
+    <links>
+        <link>
+            <text>xepps.com</text>
+            <url>http://xepps.com</url>
+        </link>
+        <link>
+            <id>desktop</id>
+            <text>Desktop Version</text>
+        </link>
+    </links>
     <text>
         <line>Proprietors Hanley and Co Ltd.</line>
-    </text>
-    <text>
         <line>Registered in England No. 3043166. Registered Office: Ashton-Under-Lyne.</line>
-    </text>
-    <text>
         <line>Registered to carry out audit work in the UK by the Institute of Chartered Accountants in England and Wales.</line>
     </text>
-    <image>icaew.jpg</image>
-    <image>fsb.jpg</image>
-    <image>ukaas.jpg</image>
+    <images>
+        <image>icaew.jpg</image>
+        <image>fsb.jpg</image>
+        <image>ukaas.jpg</image>
+    </images>
+    <copyright>Hanley &amp; Co Ltd - All Rights Reserved.</copyright>
 </footer>
