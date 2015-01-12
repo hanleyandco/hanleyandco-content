@@ -2,11 +2,12 @@
 <footer>
     <links>
         <link>
+            <name>xepps</name>
             <text>xepps.com</text>
             <url>http://xepps.com</url>
         </link>
         <link>
-            <id>desktop</id>
+            <name>desktop</name>
             <text>Desktop Version</text>
         </link>
     </links>
