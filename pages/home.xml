@@ -2,11 +2,11 @@
 <page>
     <title>Hanley &amp; Co</title>
     <sections>
-        <header-section>
+        <headerSection>
             <image>200x200.png</image>
             <title>Hanley &amp; Co</title>
-            <tag-line>Accountants You Can Talk To</tag-line>
-        </header-section>
+            <tagLine>Accountants You Can Talk To</tagLine>
+        </headerSection>
         <section>
             <header>In a Nutshell</header>
             <content>
