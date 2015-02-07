@@ -3,7 +3,7 @@
     <title>Hanley &amp; Co</title>
     <sections>
         <section>
-            <header>In a nutshell...</header>
+            <header>In a Nutshell</header>
             <content>
                 <intro>Hanley &amp; Co is a family run practice with over 25 years experience as Practising Chartered Accountants.  We pride ourselves that we truly are 'Accountants You Can Talk To'.</intro>
                 <paragraph>Our Partner Dean Logan and his friendly and qualified team are available all year round (not just once a year!) to provide you with sound business and tax planning advice and answer any queries you may have.</paragraph>
@@ -11,7 +11,7 @@
             </content>
         </section>
         <section>
-            <header>Services we offer...</header>
+            <header>Services We Offer</header>
             <content>
                 <intro>Naturally we can take care of 'all the paperwork' on your behalf - from looking after your bookkeeping, VAT Returns and payroll, to finally preparing your annual accounts and your various tax returns.</intro>
                 <paragraph>We also undertake proactive tax planning for every client as standard - so you can rest assured that your personal income tax, capital gains and even inheritance tax position is sound, as well as your business tax affairs.</paragraph>
@@ -20,7 +20,7 @@
             </content>
         </section>
         <section>
-            <header>Our fees...</header>
+            <header>Is it Expensive?</header>
             <content>
                 <intro>We prefer not to offer 'standard fixed fees' as we don't think you should pay for service you don't necessarily need</intro>
                 <paragraph>We think you're unique and so when you engage us as your accountants, we will take the time to understand you individual requirements and calculate our fee accordingly.  We also offer the facility for you to pay towards our fees each month, so you aren't faced with a 'bill bill' once a year.</paragraph>
@@ -34,7 +34,7 @@
             </content>
         </section>
         <section>
-            <header>Our clients...</header>
+            <header>Our Clients</header>
             <content>
                 <intro>We are always interested in talking to new clients.  You may be an established business looking for better advice and service from your existing accountant, or a new business venture taking your first tentative steps.</intro>
                 <paragraph>For over 25 years we have worked with a wide range of clients from window cleaners and taxi-drivers to multi-million pound turnover companies.  So you can be rest assured that whatever your business or personal tax situation, we will almost certainty have dealt with one or two like yours over the years so will be able to help with and understand the real challenges and opportunities businesses like yours experience.</paragraph>
@@ -42,7 +42,7 @@
             </content>
         </section>
         <section>
-            <header>We'd love to meet you..</header>
+            <header>We'd Love to Meet You</header>
             <content>
                 <intro>We are happy to meet you in or out of business hours, at your place of work, your home or at one of our offices; just let us know what suits you and your schedule.</intro>
                 <paragraph>Our FREE initial meeting allows us to introduce ourselves and to answer your questions.  You will be very pleased that we do not speak 'accountants jargon', just plain English.  We will provide you with a clear, written fee quotation together with a detailed report outlining our various recommendations.</paragraph>
@@ -51,19 +51,13 @@
             </content>
         </section>
         <section>
-            <header>Free Tax Guides</header>
+            <header>Tax Free Guides</header>
             <content>
                 <intro>Donec rhoncus pellentesque ultricies. Maecenas lacinia ex quam, eget facilisis ante laoreet ut. Donec sollicitudin ac urna vitae tempus. Nulla semper purus nec felis mollis, vitae auctor enim mollis. In ut leo laoreet, venenatis augue vel, laoreet velit. Donec congue erat eleifend fringilla tempus. Nunc sollicitudin sodales lectus, ut facilisis tortor egestas vitae.</intro>
-            </content>
-        </section>
-        <section>
-            <header>Free Monthly Newsletters</header>
-            <content>
-                <intro>Pellentesque hendrerit purus non laoreet auctor. Nullam non mi vitae lacus semper imperdiet ac et diam. Aenean venenatis neque eu enim venenatis, cursus pretium lacus tempor. Curabitur eu accumsan est. Sed a mauris congue, cursus augue vitae, pharetra ligula.</intro>
                 <link>
-                    <title>A free powerful search engine</title>
-                    <text>Search on Google</text>
-                    <url>http://google.com</url>
+                    <title>Hanley &amp; Co Desktop Website</title>
+                    <text>Hanley &amp; Co</text>
+                    <url>http://hanleyandco.co.uk</url>
                 </link>
             </content>
         </section>
