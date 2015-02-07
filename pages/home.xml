@@ -5,8 +5,7 @@
         <section>
             <header>In a nutshell...</header>
             <content>
-                <image>400x400.png</image>
-                <intro>Hanley & Co is a family run practice with over 25 years experience as Practising Chartered Accountants.  We pride ourselves that we truly are 'Accountants You Can Talk To'.</intro>
+                <intro>Hanley &amp; Co is a family run practice with over 25 years experience as Practising Chartered Accountants.  We pride ourselves that we truly are 'Accountants You Can Talk To'.</intro>
                 <paragraph>Our Partner Dean Logan and his friendly and qualified team are available all year round (not just once a year!) to provide you with sound business and tax planning advice and answer any queries you may have.</paragraph>
                 <paragraph>We offer a FREE initial no obligation consultation so you can talk through your plans and situation and get our advice.  You can give us a call, send an email or pop in for a chat; we have offices in Ashton under Lyne and Blackpool and the Fylde.</paragraph>
             </content>
@@ -14,7 +13,6 @@
         <section>
             <header>Services we offer...</header>
             <content>
-                <image>400x400.png</image>
                 <intro>Naturally we can take care of 'all the paperwork' on your behalf - from looking after your bookkeeping, VAT Returns and payroll, to finally preparing your annual accounts and your various tax returns.</intro>
                 <paragraph>We also undertake proactive tax planning for every client as standard - so you can rest assured that your personal income tax, capital gains and even inheritance tax position is sound, as well as your business tax affairs.</paragraph>
                 <paragraph>And if you're just starting out we can even form your company for you and deal with your statutory requirements.  And as Registered Auditors we can undertake any assurance engagements you require.</paragraph>
@@ -27,36 +25,35 @@
                 <intro>We prefer not to offer 'standard fixed fees' as we don't think you should pay for service you don't necessarily need</intro>
                 <paragraph>We think you're unique and so when you engage us as your accountants, we will take the time to understand you individual requirements and calculate our fee accordingly.  We also offer the facility for you to pay towards our fees each month, so you aren't faced with a 'bill bill' once a year.</paragraph>
                 <quote>
-                    <text>You cannot afford to take risks with your choice of accountant. Choosing Hanley & Co, is not a decision you will regret.</text>
+                    <text>You cannot afford to take risks with your choice of accountant. Choosing Hanley &amp; Co, is not a decision you will regret.</text>
                     <attribution>
                         <name>C Cotton</name>
                         <company>Stay and Play Ltd</company>
                     </attribution>
                 </quote>
-              </content>
+            </content>
         </section>
         <section>
-           <header>Our clients...</header>
-               <content>
-                    <intro>We are always interested in talking to new clients.  You may be an established business looking for better advice and service from your existing accountant, or a new business venture taking your first tentative steps.</intro>
-                    <paragraph>For over 25 years we have worked with a wide range of clients from window cleaners and taxi-drivers to multi-million pound turnover companies.  So you can be rest assured that whatever your business or personal tax situation, we will almost certainty have dealt with one or two like yours over the years so will be able to help with and understand the real challenges and opportunities businesses like yours experience.</paragraph>
-                      <paragraph>Over the years we have built up collections of clients in particular industries such as one man (or woman) consultants and contractor service companies (some IR35) and small hotel and guest houses.  Also we are one of the country's leading advisors to online and eBay traders - we have even published our own guide with specific advice available HERE.</paragraph>
-                </content>      
-     </section>
-     <section>
-              <header>We'd love to meet you..</header>
-                  <content>
-                  <intro>We are happy to meet you in or out of business hours, at your place of work, your home or at one of our offices; just let us know what suits you and your schedule.</intro>
-                  <paragraph>Our FREE initial meeting allows us to introduce ourselves and to answer your questions.  You will be very pleased that we do not speak 'accountants jargon', just plain English.  We will provide you with a clear, written fee quotation together with a detailed report outlining our various recommendations.</paragraph>
-                  <paragraph>If you already have an accountant that's fine, our meeting will be totally confidential and if you do decide to proceed with us we will handle the changeover for you.</paragraph>
-                  <paragraph>If you decide not to proceed that's fine, and you are very welcome to use any advised offered.  You are also very welcome to continue to access our website to receive our free monthly newsletters</paragraph>
-              </content>
-         </section>
-         <section>
-              <header>Tax Free Guides</header>
-              <content>
-                  <image>640x480.png</image>
-                  <intro>Donec rhoncus pellentesque ultricies. Maecenas lacinia ex quam, eget facilisis ante laoreet ut. Donec sollicitudin ac urna vitae tempus. Nulla semper purus nec felis mollis, vitae auctor enim mollis. In ut leo laoreet, venenatis augue vel, laoreet velit. Donec congue erat eleifend fringilla tempus. Nunc sollicitudin sodales lectus, ut facilisis tortor egestas vitae.</intro>
+            <header>Our clients...</header>
+            <content>
+                <intro>We are always interested in talking to new clients.  You may be an established business looking for better advice and service from your existing accountant, or a new business venture taking your first tentative steps.</intro>
+                <paragraph>For over 25 years we have worked with a wide range of clients from window cleaners and taxi-drivers to multi-million pound turnover companies.  So you can be rest assured that whatever your business or personal tax situation, we will almost certainty have dealt with one or two like yours over the years so will be able to help with and understand the real challenges and opportunities businesses like yours experience.</paragraph>
+                <paragraph>Over the years we have built up collections of clients in particular industries such as one man (or woman) consultants and contractor service companies (some IR35) and small hotel and guest houses.  Also we are one of the country's leading advisors to online and eBay traders - we have even published our own guide with specific advice available HERE.</paragraph>
+            </content>
+        </section>
+        <section>
+            <header>We'd love to meet you..</header>
+            <content>
+                <intro>We are happy to meet you in or out of business hours, at your place of work, your home or at one of our offices; just let us know what suits you and your schedule.</intro>
+                <paragraph>Our FREE initial meeting allows us to introduce ourselves and to answer your questions.  You will be very pleased that we do not speak 'accountants jargon', just plain English.  We will provide you with a clear, written fee quotation together with a detailed report outlining our various recommendations.</paragraph>
+                <paragraph>If you already have an accountant that's fine, our meeting will be totally confidential and if you do decide to proceed with us we will handle the changeover for you.</paragraph>
+                <paragraph>If you decide not to proceed that's fine, and you are very welcome to use any advised offered.  You are also very welcome to continue to access our website to receive our free monthly newsletters</paragraph>
+            </content>
+        </section>
+        <section>
+            <header>Tax Free Guides</header>
+            <content>
+                <intro>Donec rhoncus pellentesque ultricies. Maecenas lacinia ex quam, eget facilisis ante laoreet ut. Donec sollicitudin ac urna vitae tempus. Nulla semper purus nec felis mollis, vitae auctor enim mollis. In ut leo laoreet, venenatis augue vel, laoreet velit. Donec congue erat eleifend fringilla tempus. Nunc sollicitudin sodales lectus, ut facilisis tortor egestas vitae.</intro>
             </content>
         </section>
         <section>
