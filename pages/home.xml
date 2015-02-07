@@ -43,12 +43,14 @@
         </section>
         <section>
             <header>Free Monthly Newsletters</header>
-            <intro>Pellentesque hendrerit purus non laoreet auctor. Nullam non mi vitae lacus semper imperdiet ac et diam. Aenean venenatis neque eu enim venenatis, cursus pretium lacus tempor. Curabitur eu accumsan est. Sed a mauris congue, cursus augue vitae, pharetra ligula.</intro>
-            <link>
-                <title>A free powerful search engine</title>
-                <text>Search on Google</text>
-                <url>http://google.com</url>
-            </link>
+            <content>
+                <intro>Pellentesque hendrerit purus non laoreet auctor. Nullam non mi vitae lacus semper imperdiet ac et diam. Aenean venenatis neque eu enim venenatis, cursus pretium lacus tempor. Curabitur eu accumsan est. Sed a mauris congue, cursus augue vitae, pharetra ligula.</intro>
+                <link>
+                    <title>A free powerful search engine</title>
+                    <text>Search on Google</text>
+                    <url>http://google.com</url>
+                </link>
+            </content>
         </section>
         <section>
             <header>Contact Us</header>
