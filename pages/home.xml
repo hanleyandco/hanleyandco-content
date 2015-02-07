@@ -35,11 +35,20 @@
             </content>
         </section>
         <section>
-            <header>Tax Free Guides</header>
+            <header>Free Tax Guides</header>
             <content>
                 <image>640x480.png</image>
                 <intro>Donec rhoncus pellentesque ultricies. Maecenas lacinia ex quam, eget facilisis ante laoreet ut. Donec sollicitudin ac urna vitae tempus. Nulla semper purus nec felis mollis, vitae auctor enim mollis. In ut leo laoreet, venenatis augue vel, laoreet velit. Donec congue erat eleifend fringilla tempus. Nunc sollicitudin sodales lectus, ut facilisis tortor egestas vitae.</intro>
             </content>
+        </section>
+        <section>
+            <header>Free Monthly Newsletters</header>
+            <intro>Pellentesque hendrerit purus non laoreet auctor. Nullam non mi vitae lacus semper imperdiet ac et diam. Aenean venenatis neque eu enim venenatis, cursus pretium lacus tempor. Curabitur eu accumsan est. Sed a mauris congue, cursus augue vitae, pharetra ligula.</intro>
+            <link>
+                <title>A free powerful search engine</title>
+                <text>Search on Google</text>
+                <url>http://google.com</url>
+            </link>
         </section>
         <section>
             <header>Contact Us</header>
