@@ -14,7 +14,6 @@
     <text>
         <line>Proprietors Hanley and Co Ltd.</line>
         <line>Registered in England No. 3043166.</line>
-        <line>Registered Office: Ashton-Under-Lyne.</line>
         <line>Registered to carry out audit work in the UK by the Institute of Chartered Accountants in England and Wales.</line>
     </text>
     <images>
@@ -23,4 +22,5 @@
         <image>fsb.jpg</image>
     </images>
     <copyright>Hanley &amp; Co Ltd - All Rights Reserved.</copyright>
+    <registeredOffice>18 Church Street, Aston-under-Lyne, OL6 6XE</registeredOffice>
 </footer>
