@@ -3,7 +3,7 @@
     <title>Hanley &amp; Co</title>
     <sections>
         <headerSection>
-            <image>icaew.png</image>
+            <image>icaew.jpg</image>
             <title>Hanley &amp; Co</title>
             <subTitle>Chartered Accountants and Business Advisers</subTitle>
             <tagLine>Accountants You Can Talk To</tagLine>
@@ -82,6 +82,10 @@
                 <contact>
                     <telephone>0161 339 7502</telephone>
                     <email>help@hanleyandco.co.uk</email>
+                    <openingHours>
+                        <text>Monday through Friday, 9:00 - 17:00</text>
+                        <schema>Mo-Fr 9:00-17:00</schema>
+                    </openingHours>
                 </contact>
             </content>
         </section>
