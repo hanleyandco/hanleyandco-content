@@ -79,7 +79,10 @@
             <content>
                 <intro>Nullam sapien leo, iaculis quis tincidunt at, ultrices eget ex. Nam malesuada vehicula turpis in tincidunt. In blandit, lorem quis facilisis venenatis, urna diam blandit dui, id pellentesque lectus quam non elit. Ut tincidunt lorem gravida elit finibus, quis scelerisque diam porta. Curabitur in neque a mauris euismod venenatis.</intro>
                 <paragraph>Donec euismod, urna at bibendum vehicula, erat est tristique mauris, eu viverra nisi felis et elit. Vestibulum congue, orci at volutpat interdum, mi felis dapibus erat, id aliquet felis enim quis quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</paragraph>
-                <paragraph>Aliquam sit amet sapien viverra, porta tellus non, pulvinar nunc. Ut sed arcu ac ipsum volutpat tempor ac ut leo. Pellentesque posuere ultricies viverra. Vestibulum in molestie nisl.</paragraph>
+                <contact>
+                    <telephone>0161 339 7502</telephone>
+                    <email>help@hanleyandco.co.uk</email>
+                </contact>
             </content>
         </section>
     </sections>
