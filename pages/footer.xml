@@ -16,10 +16,16 @@
         <line>Registered in England No. 3043166.</line>
         <line>Registered to carry out audit work in the UK by the Institute of Chartered Accountants in England and Wales.</line>
     </text>
-    <images>
-        <image>icaew.jpg</image>
-        <image>fsb.jpg</image>
-    </images>
+    <memberOf>
+        <organisation>
+            <name>Institute of Chartered Accountants in England and Wales</name>
+            <logo>icaew.jpg</logo>
+        </organisation>
+    </memberOf>
     <copyright>Hanley &amp; Co Ltd - All Rights Reserved.</copyright>
-    <registeredOffice>18 Church Street, Aston-under-Lyne, OL6 6XE</registeredOffice>
+    <registeredOffice>
+        <street>18 Church Street</street>
+        <town>Ashton-under-Lyne</town>
+        <postcode>OL6 6XE</postcode>
+    </registeredOffice>
 </footer>
