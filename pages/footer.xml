@@ -2,18 +2,12 @@
 <footer>
     <links>
         <link>
-            <name>xepps</name>
-            <text>xepps.com</text>
-            <url>http://xepps.com</url>
-        </link>
-        <link>
             <name>desktop</name>
             <text>Desktop Version</text>
         </link>
     </links>
     <text>
-        <line>Proprietors Hanley and Co Ltd.</line>
-        <line>Registered in England No. 3043166.</line>
+        <line>Hanley and Co Ltd. Registered in England No. 3043166.</line>
         <line>Registered to carry out audit work in the UK by the Institute of Chartered Accountants in England and Wales.</line>
     </text>
     <memberOf>
@@ -23,9 +17,16 @@
         </organisation>
     </memberOf>
     <copyright>Hanley &amp; Co Ltd - All Rights Reserved.</copyright>
-    <registeredOffice>
-        <street>18 Church Street</street>
-        <town>Ashton-under-Lyne</town>
-        <postcode>OL6 6XE</postcode>
-    </registeredOffice>
+    <offices>
+        <registeredOffice>
+            <street>18 Church Street</street>
+            <town>Ashton-under-Lyne</town>
+            <postcode>OL6 6XE</postcode>
+        </registeredOffice>
+        <registeredOffice>
+            <street>15 Olympic Court, Whitehills Business Park</street>
+            <town>Blackpool</town>
+            <postcode>FY4 5GU</postcode>
+        </registeredOffice>
+    </offices>
 </footer>
