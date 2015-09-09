@@ -53,6 +53,24 @@
             </content>
         </section>
         <section>
+            <header>Free Business and Tax Guides</header>
+            <content>
+                <paragraph>Our guides are easy to read and packed full of tips and relevant advice - whether you're setting up in business, looking to grow your existing business or simply want to ensure your tax liabilities (and hassle from HMRC) are as low as legally possible.</paragraph>
+                <link>
+                    <title>Email us to receive our guides</title>
+                    <text>For details of our Kashflow online bookkeeping system, one of our free tax business and tax guides, please send us a quick email.</text>
+                    <url>mailto:help@hanleyandco.co.uk</url>
+                </link>
+                <quote>
+                    <text>Hanley &amp; Co give valuable and excellent advice on all money matters.  I trust them completely and would recommend them to anyone.</text>
+                    <attribution>
+                        <name>V Williams</name>
+                        <company>P A S Medical Ltd</company>
+                    </attribution>
+                </quote>
+            </content>
+        </section>
+        <section>
             <header>We'd Like to Meet You</header>
             <content>
                 <intro>We are happy to meet you in or out of business hours, at your place of work, home or at our offices. Many new clients just start with a chat on the telephone. Just let us know what suits you and your schedule.</intro>
@@ -68,24 +86,6 @@
                         <schema>Mo-Fr 9:00-17:00</schema>
                     </openingHours>
                 </contact>
-                <quote>
-                    <text>Hanley &amp; Co give valuable and excellent advice on all money matters.  I trust them completely and would recommend them to anyone.</text>
-                    <attribution>
-                        <name>V Williams</name>
-                        <company>P A S Medical Ltd</company>
-                    </attribution>
-                </quote>
-            </content>
-        </section>
-        <section>
-            <header>Free Business and Tax Guides</header>
-            <content>
-                <paragraph>Our guides are easy to read and packed full of tips and relevant advice - whether you're setting up in business, looking to grow your existing business or simply want to ensure your tax liabilities (and hassle from HMRC) are as low as legally possible.</paragraph>
-                <link>
-                    <title>Email us to receive our guides</title>
-                    <text>For details of our Kashflow online bookkeeping system, one of our free tax business and tax guides, please send us a quick email.</text>
-                    <url>mailto:help@hanleyandco.co.uk</url>
-                </link>
             </content>
         </section>
     </sections>
